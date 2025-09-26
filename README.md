@@ -28,3 +28,16 @@ Write a short paragraph (5–8 sentences) in English:
 - **UML implementation in Java (attributes, constructors, methods):** 50%  
 - **Objects created and tested in `Main`:** 20%  
 - **Reflection** 30%  
+
+
+RESPUEST REFLECTION QUESTION 
+realmente tuve que leer mucho y practicar sobre el uml y constructores otra vez, en realidad fue mas logica que otra cosa a medida que estabamos haciendolo se iba desembolviendo facilmente. me sirvio de mucho los ejemplos vistos en clase ya que fueron la guia para resolver este. creo que vamos a un ritmo normal y todo se esta entendiendo a medida.
+
+
+
+
+
+
+
+
+
